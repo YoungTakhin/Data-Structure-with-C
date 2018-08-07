@@ -6,7 +6,7 @@
 	代码，模版内的全部代码都分别在DevC++及Visual Studio 2017中测试运行通过，这些代码是开源的，读者可以直接在非正式场合中使用这些代
 	码，但如果想在以盈利的目的下使用本模板中的代码请与我联系。
         源代码可以到本人的Github上下载，下载地址：
-				https://github.com/YoungTakhin/Data-Structure-with-C
+				https://github.com/YoungTakhin/Data-Structure-with-C/archive/master.zip
         因编者水平有限，模板中的bug在所难免，望读者批评指正并帮助我完善这套数据结构模板，请与我联系。
 
 ## 本模板约定
@@ -52,5 +52,5 @@
 
 
 
-杨德轩 
+杨德轩
 2018年8月
